@@ -1,36 +1,38 @@
-# Data Structures
+# Data Structures with Python Tkinter Animation
 
-This repository contains implementations of various data structures in Python.
+This repository contains Python implementations of various data structures along with Tkinter-based animations for visualization. The implemented data structures include:
 
-## Table of Contents
+- **Array**: A linear data structure consisting of a collection of elements, each identified by at least one array index or key.
+- **Graph**: A collection of nodes (vertices) and edges that connect pairs of nodes.
+- **LinkedList**: A linear collection of data elements, where each element points to the next one in the sequence.
+- **Queue**: A collection of elements that supports adding elements at the end and removing elements from the front.
+- **Stack**: A collection of elements with two main operations: push, which adds an element to the collection, and pop, which removes the most recently added element.
+- **Tree**: A hierarchical data structure consisting of nodes connected by edges. Each node has a parent and zero or more children.
 
-1. [Array](#array)
-2. [Graph](#graph)
-3. [Linked List](#linked-list)
-4. [Queue](#queue)
-5. [Stack](#stack)
-6. [Tree](#tree)
+## Requirements
 
-## Array
+- Python 3.x
+- Tkinter library (usually included with Python)
 
-This folder contains implementations of different array-based data structures and algorithms.
+## Installation
 
-## Graph
+1. Clone the repository:
 
-This folder contains implementations of graph data structures and algorithms.
+    ```bash
+    git clone https://github.com/your-username/data-structures-with-tkinter-animation.git
+    ```
 
-## Linked List
+2. Navigate to the project directory:
 
-This folder contains implementations of linked list data structures and algorithms.
+    ```bash
+    cd data-structures-with-tkinter-animation
+    ```
 
-## Queue
+## Usage
 
-This folder contains implementations of queue data structures and algorithms.
+Each data structure implementation is contained within its own Python script file. To run the animations, simply execute the respective Python script.
 
-## Stack
+For example, to run the animation for the array data structure, execute:
 
-This folder contains implementations of stack data structures and algorithms.
-
-## Tree
-
-This folder contains implementations of tree data structures and algorithms.
+```bash
+python array_animation.py
