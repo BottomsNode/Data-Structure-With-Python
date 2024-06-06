@@ -1,53 +1,36 @@
 # Data Structures
 
-This repository contains implementations of common data structures in various programming languages.
+This repository contains implementations of various data structures in Python.
 
 ## Table of Contents
 
-1. [Array](Array/)
-2. [Graph](Graph/)
-3. [LinkedList](LinkedList/)
-4. [Queue](Queue/)
-5. [Stack](Stack/)
-6. [Sort](Sort/)
+1. [Array](#array)
+2. [Graph](#graph)
+3. [Linked List](#linked-list)
+4. [Queue](#queue)
+5. [Stack](#stack)
+6. [Tree](#tree)
 
-## Data Structures Implemented
+## Array
 
-### 1. Array
+This folder contains implementations of different array-based data structures and algorithms.
 
-An array is a collection of elements stored at contiguous memory locations.
+## Graph
 
-### 2. Graph
+This folder contains implementations of graph data structures and algorithms.
 
-A graph is a collection of nodes (vertices) and edges that connect them.
+## Linked List
 
-### 3. LinkedList
+This folder contains implementations of linked list data structures and algorithms.
 
-A linked list is a linear collection of elements where each element points to the next one in the sequence.
+## Queue
 
-### 4. Queue
+This folder contains implementations of queue data structures and algorithms.
 
-A queue is a collection of elements that supports adding elements at the end (enqueue) and removing elements from the front (dequeue).
+## Stack
 
-### 5. Stack
+This folder contains implementations of stack data structures and algorithms.
 
-A stack is a collection of elements that supports adding elements to the top (push) and removing elements from the top (pop).
+## Tree
 
-### 6. Sort
-
-Sorting algorithms are methods of arranging items in a list in a specific order.
-
-## Contributing
-
-Contributions are welcome! If you'd like to contribute to this repository, please follow these guidelines:
-- Fork the repository
-- Create a new branch (`git checkout -b feature`)
-- Make your changes
-- Test your changes thoroughly
-- Commit your changes (`git commit -am 'Add new feature'`)
-- Push to the branch (`git push origin feature`)
-- Create a new Pull Request
-
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+This folder contains implementations of tree data structures and algorithms.
